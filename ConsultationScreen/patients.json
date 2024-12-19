@@ -1,0 +1,43 @@
+[
+  {
+    "id": 101,
+    "name": "Rahul",
+    "age": 30,
+    "address": "148 Street, Apple city",
+    "emailAddress": "Rahul172@gmail.com",
+    "bloodGroup": "O+",
+    "phoneNumber": "8574321880",
+    "tokenNumber": 101
+  },
+  {
+    "id": 102,
+    "name": "Aravind",
+    "age": 25,
+    "address": "182 church Street, Banglore",
+    "emailAddress": "Aravind@gmail.com",
+    "bloodGroup": "A-",
+    "phoneNumber": "9867735553",
+    "tokenNumber": 102
+  },
+  {
+    "id": 103,
+    "name": "Ananthu",
+    "age": 40,
+    "address": "112 Tambaram, Chennai",
+    "emailAddress": "Ananthu@gmail.com",
+    "bloodGroup": "B+",
+    "phoneNumber": "9897657446",
+    "tokenNumber": 103
+  },
+  {
+    "id": 104,
+    "name": "Navami",
+    "age": 35,
+    "address": "Padamughal, Kakkanad",
+    "emailAddress": "Navami@gamil.com",
+    "bloodGroup": "AB-",
+    "phoneNumber": "9897673546",
+    "tokenNumber": 104
+  }
+  
+]

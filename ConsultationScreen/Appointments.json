@@ -1,0 +1,103 @@
+[
+  {
+    "patient": {
+      "id": 101,
+      "name": "Hashim",
+      "age": 30,
+      "address": "12th Street, Whitefield",
+      "emailAddress": "Hashim@gmail.com",
+      "bloodGroup": "O+",
+      "phoneNumber": "8034567890",
+      "tokenNumber": 1
+    },
+    "doctor": {
+      "id": 201,
+      "name": "Dr.Jeevan",
+      "contact":"9856475656",
+      "age":45,
+      "specialization": "Cardiology",
+      "startTime":"9:00 AM",
+      "endTime":"10:00 AM"
+    },
+    "appointment_Date": "2024-12-15",
+    "department": "Cardiology",
+    "consultation_fee": "200 USD",
+    "appointment_time": "10:30 AM"
+  },
+  {
+    "patient": {
+      "id": 102,
+      "name": "Hari",
+      "age": 25,
+      "address": "17th Street, Chennai",
+      "emailAddress": "Hari@gmail.com",
+      "bloodGroup": "A-",
+      "phoneNumber": "9876543210",
+      "tokenNumber": 2
+    },
+    "doctor": {
+      "id": 202,
+      "name": "Dr.Mahadevan",
+      "contact":"9756475636",
+      "age":48,
+      "specialization": "Cardiology",
+      "startTime":"10:00 AM",
+      "endTime":"11:00 AM"
+    },
+    "appointment_Date": "2024-12-16",
+    "department": "Dermatology",
+    "consultation_fee": "120 USD",
+    "appointment_time": "02:00 PM"
+  },
+  {
+    "patient": {
+    "id": 104,
+    "name": "Navami",
+    "age": 35,
+    "address": "Padamughal, Kakkanad",
+    "emailAddress": "Navami@gamil.com",
+    "bloodGroup": "AB-",
+    "phoneNumber": "9897673546",
+    "tokenNumber": 3
+    },
+    "doctor": {
+      "id": 203,
+      "name": "Dr.Farzeen",
+      "contact":"9756472534",
+      "age":48,
+      "specialization": "Cardiology",
+      "startTime":"11:00 AM",
+      "endTime":"12:00 AM"
+    },
+    "appointment_Date": "2024-12-16",
+    "department": "Dermatology",
+    "consultation_fee": "150 USD",
+    "appointment_time": "02:00 PM"
+  },
+  {
+    "patient": {
+    "id": 105,
+    "name": "Aravind",
+    "age": 35,
+    "address": "Kalamassery, ernakulam",
+    "emailAddress": "Aravind@gamil.com",
+    "bloodGroup": "AB+",
+    "phoneNumber": "9897384546",
+    "tokenNumber": 10
+    },
+    "doctor": {
+      "id": 203,
+      "name": "Dr.Praveen",
+      "contact":"9756458437",
+      "age":48,
+      "specialization": "Radiology",
+      "startTime":"12:00 AM",
+      "endTime":"1:00 PM"
+    },
+    "appointment_Date": "2024-12-16",
+    "department": "Radiology",
+    "consultation_fee": "150 USD",
+    "appointment_time": "02:00 PM"
+  }
+  
+]
